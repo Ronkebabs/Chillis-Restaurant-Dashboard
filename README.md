@@ -35,7 +35,6 @@ To transform restaurant sales data into actionable insights that support better 
 ---
 
 ## 📷 Dashboard Preview
-
 ![Dashboard](./Chilli's%20Restaurant.png)
 
 ---
